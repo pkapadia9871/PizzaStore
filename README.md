@@ -1,5 +1,7 @@
 
-# msft_dotnet_minimal_api
+# Pizza Store API
+
+Source Cited: https://learn.microsoft.com/en-us/training/modules/build-web-api-minimal-api/3-exercise-create-minimal-api
 
 To run, enter into Powershell command line:
 
